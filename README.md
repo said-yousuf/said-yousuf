@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔹 Backend Developer Enthusiast: Building efficient backend systems  <br>🔹 Currently learning React to expand my skills  <br>🔹 Familiar with MySQL for foundational data handling.  <br>🥇 ICPC 2024 Asia West Winner</p>
+<p align="left">🔹 Currently learning React to expand my skills  <br>🔹 Familiar with MySQL for foundational data handling.  <br>🥇 ICPC 2024 Asia West Winner</p>
 
 ###
 
