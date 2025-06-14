@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔹 Currently learning React to expand my skills  <br>🔹 Familiar with MySQL for foundational data handling.  <br>🥇 ICPC 2024 Asia West Winner</p>
+<p align="left">🔹 Currently learning React to expand my skills <br>🥇2024 ICPC ASIA KABUL REGIONAL CHAMPION</p>
 
 ###
 
@@ -24,8 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
